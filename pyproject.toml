@@ -6,8 +6,11 @@ authors = ["ODS community"]
 license = "GNU Lesser General Public License v3.0 or later"
 
 [tool.poetry.dependencies]
-python = "^3.6"
+python = "^3.6.6"
 jupyter = "^1.0.0"
+pandas = "^1.0.1"
+seaborn = "^0.10.0"
+wordcloud = "^1.6.0"
 
 [tool.poetry.dev-dependencies]
 wemake-python-styleguide = "^0.13.4"
