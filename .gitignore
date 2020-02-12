@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Explicit exclusion of data
+input/2020_opendatascience_poll_data.csv.gz
