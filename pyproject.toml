@@ -11,6 +11,8 @@ jupyter = "^1.0.0"
 pandas = "^1.0.1"
 seaborn = "^0.10.0"
 wordcloud = "^1.6.0"
+psutil = "5.4.8"
+requests = "^2.23.0"
 
 [tool.poetry.dev-dependencies]
 wemake-python-styleguide = "^0.13.4"
