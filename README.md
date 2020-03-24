@@ -5,7 +5,7 @@ This repo contains two versions of the audience stats summary: [for those who ju
 
 ## Audience data
 
-If you want just to look, check [research_eda_concise_version.html](research_eda_concise_version.html).
+If you want just to look, check [research_eda_concise_version.html](https://open-data-science.github.io/ods_channel_stats_eda/research_eda_concise_version.html). There is also option to view the notebook at [nbviewer site](https://nbviewer.jupyter.org/github/open-data-science/ods_channel_stats_eda/blob/master/research_eda_concise_version.ipynb).
 If you want to find out more, clone the repo and run the jupyter notebook, because github doesn't support pretty graphs output in .ipynb files yet.
 
 ## Installation and initial setup
